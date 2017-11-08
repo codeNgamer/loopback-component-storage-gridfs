@@ -1,11 +1,11 @@
 {
-  "name": "loopback-component-storage-gridfs",
-  "version": "1.0.4",
+  "name": "loopback-component-storage-gridfs2",
+  "version": "0.0.1",
   "description": "loopback storage component",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/MrMartiniMo/loopback-component-storage-gridfs.git"
+    "url": "git@github.com:codeNgamer/loopback-component-storage-gridfs2.git"
   },
   "keywords": [
     "loopback",
@@ -15,8 +15,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Moritz Krause (moritz.krause@winice.de)",
-  "license": "ISC",
+  "author": "codengamer",
+  "license": "MIT",
   "dependencies": {
     "busboy": "^0.2.12",
     "gridfs-stream": "^1.1.1",
